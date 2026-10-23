@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Mass-Effect-Legendary-Edition-Save-Editor` · Updated: 2026-10-07
+`Mass-Effect-Legendary-Edition-Save-Editor` · Updated: 2026-10-24
 
 **Tags:** `mass-effect` `legendary-edition` `save-editor` `rpg` `bioware`
